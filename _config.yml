@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: projWithJekyll
-email: samu.ss646@gmail.com
+title: DevBlog.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Blog para se manter informado sobre as novidades tecnologicas na área de TI
 baseurl: "/projWithJekyll/" # the subpath of your site, e.g. /blog
