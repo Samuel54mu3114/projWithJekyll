@@ -23,7 +23,7 @@ email: samu.ss646@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog para se manter informado sobre as novidades tecnologicas na área de TI
 baseurl: "/projWithJekyll/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://samuel54mu3114.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Samuel54mu3114
 
 # Build settings
